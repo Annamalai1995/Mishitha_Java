@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82f77bcd-3404-4993-8012-d0685b00ab86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/controlstmts/Demo_Else_if.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/controlstmts/Nested_if.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/controlstmts/Switchcase.java" afterDir="false" />
+    <list default="true" id="82f77bcd-3404-4993-8012-d0685b00ab86" name="Changes" comment="nested">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Core_java/controlstmts/Switchcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Core_java/controlstmts/Switchcase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,12 +71,20 @@
       <option name="project" value="LOCAL" />
       <updated>1755084164571</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="nested">
+      <created>1755085745672</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755085745672</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Operator and control stmts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operator and control stmts" />
+    <MESSAGE value="nested" />
+    <option name="LAST_COMMIT_MESSAGE" value="nested" />
   </component>
 </project>

@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82f77bcd-3404-4993-8012-d0685b00ab86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Array/Demo_create.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Array/Insert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Array/UpdateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Loop/Demo_Dowhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Loop/Demo_do.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Loop/Demo_forloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Loop/Demo_while.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Loop/demo_for.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/String/StringBuffer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/String/String_Methods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1755086265543</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Arrays and Loop">
+      <created>1755242444194</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755242444194</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -100,6 +101,7 @@
     <MESSAGE value="Operator and control stmts" />
     <MESSAGE value="nested" />
     <MESSAGE value="switch and nested" />
-    <option name="LAST_COMMIT_MESSAGE" value="switch and nested" />
+    <MESSAGE value="Arrays and Loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays and Loop" />
   </component>
 </project>
